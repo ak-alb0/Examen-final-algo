@@ -3,3 +3,4 @@ function estPair(nombre) {
 }
 console.log(estPair(4)); // Résultat attendu : true
 console.log(estPair(7)); // Résultat attendu : false
+
